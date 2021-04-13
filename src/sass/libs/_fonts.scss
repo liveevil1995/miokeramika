@@ -1,0 +1,66 @@
+// Playfair Display
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/PlayfairDisplay-Regular.eot');
+    src: url('../fonts/PlayfairDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/PlayfairDisplay-Regular.woff') format('woff'),
+    url('../fonts/PlayfairDisplay-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    }
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/PlayfairDisplay-Bold.eot');
+    src: url('../fonts/PlayfairDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/PlayfairDisplay-Bold.woff') format('woff'),
+    url('../fonts/PlayfairDisplay-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/PlayfairDisplay-Italic.eot');
+    src: url('../fonts/PlayfairDisplay-Italic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/PlayfairDisplay-Italic.woff') format('woff'),
+    url('../fonts/PlayfairDisplay-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+// Open Sans
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/OpenSans-Regular.eot');
+    src: url('../fonts/OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/OpenSans-Regular.woff') format('woff'),
+    url('../fonts/OpenSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/OpenSans-BoldItalic.eot');
+    src: url('../fonts/OpenSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/OpenSans-BoldItalic.woff') format('woff'),
+    url('../fonts/OpenSans-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    }
+
+
+// Gotham Pro
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('../fonts/GothamPro.eot');
+    src: url('../fonts/GothamPro.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/GothamPro.woff') format('woff'),
+    url('../fonts/GothamPro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
